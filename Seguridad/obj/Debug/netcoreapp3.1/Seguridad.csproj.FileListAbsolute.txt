@@ -1,0 +1,17 @@
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\ProyectoCoreb\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.AssemblyReference.cache
+C:\ProyectoCoreb\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.GeneratedMSBuildEditorConfig.editorconfig

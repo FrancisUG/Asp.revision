@@ -1,0 +1,17 @@
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\ProyectoCoreb\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb

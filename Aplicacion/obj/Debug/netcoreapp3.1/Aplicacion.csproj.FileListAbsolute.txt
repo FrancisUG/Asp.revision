@@ -1,0 +1,15 @@
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\ProyectoCoreb\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.AssemblyReference.cache
+C:\ProyectoCoreb\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig

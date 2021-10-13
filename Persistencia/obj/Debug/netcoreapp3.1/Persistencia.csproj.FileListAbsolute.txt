@@ -1,0 +1,16 @@
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\ProyectoCoreb\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\ProyectoCoreb\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
